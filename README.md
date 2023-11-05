@@ -16,6 +16,6 @@ member.indroduce(); // 대한민국 서울시 특별시 사는 홍길동이고 �
 
 ## 과제 소스 코드
 ---
-[과제답1](https://github.com/nakyeonko3/JAVA_2023_practice2/tree/main/src/main/java/org/example2)
+[과제답1](https://github.com/nakyeonko3/JAVA_2023_practice2/tree/main/src/main/java/org/example2) </br>
 [과제답2:빌더 패턴적용함](https://github.com/nakyeonko3/JAVA_2023_practice2/tree/main/src/main/java/org/example)
 ​
