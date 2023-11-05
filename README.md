@@ -14,5 +14,5 @@ member.addr = Loc.Kor + '서울시 특별시';
 member.indroduce(); // 대한민국 서울시 특별시 사는 홍길동이고 전화번호는 010-1234-1344 입니다. 
 ```
 
-
+[빌더 패턴적용](https://github.com/nakyeonko3/JAVA_2023_practice2/tree/main/src/main/java/org/example)
 ​
